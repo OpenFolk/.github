@@ -23,7 +23,7 @@ Use the imperative mood in the subject line ("Add approval timeout", not "Added"
 
 ## Licensing
 
-By contributing you agree that your contribution is licensed under the license of the repository you contribute to.
+By contributing you agree that your contribution is licensed under the license of the repository you contribute to. Repositories that are also offered under a commercial license, such as [OpenFolk](https://github.com/OpenFolk/OpenFolk), ask you to sign a Contributor License Agreement with your first pull request instead; their own `CONTRIBUTING.md` explains it.
 
 ## Code of conduct
 
