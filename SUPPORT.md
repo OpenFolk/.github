@@ -4,4 +4,4 @@
 - **Bug reports and feature requests:** use the issue templates of the affected repository.
 - **Security problems:** see [SECURITY.md](SECURITY.md) and report privately.
 
-navobots projects are maintained in our spare time. We read every issue, but response times vary.
+OpenFolk projects are maintained in our spare time. We read every issue, but response times vary.

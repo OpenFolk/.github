@@ -1,6 +1,6 @@
-# Contributing to navobots
+# Contributing to OpenFolk
 
-Thank you for taking the time to contribute. This guide applies to every repository in the navobots organization unless the repository ships its own.
+Thank you for taking the time to contribute. This guide applies to every repository in the OpenFolk organization unless the repository ships its own.
 
 ## Before you start
 
@@ -27,4 +27,4 @@ By contributing you agree that your contribution is licensed under the license o
 
 ## Code of conduct
 
-Everyone participating in navobots projects is expected to follow our [Code of Conduct](CODE_OF_CONDUCT.md).
+Everyone participating in OpenFolk projects is expected to follow our [Code of Conduct](CODE_OF_CONDUCT.md).
