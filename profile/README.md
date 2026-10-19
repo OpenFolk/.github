@@ -16,4 +16,4 @@ Open-source tools for working with AI coding agents as teammates — on your own
 
 ## Get involved
 
-Issues and pull requests are welcome as soon as the first repository is public. Until then, watch this organization to get notified. Please read our [contributing guide](https://github.com/OpenFolk/.github/blob/main/CONTRIBUTING.md) and [code of conduct](https://github.com/OpenFolk/.github/blob/main/CODE_OF_CONDUCT.md) first.
+Issues and pull requests are welcome as soon as the first repository is public. Until then, watch this organization to get notified.
